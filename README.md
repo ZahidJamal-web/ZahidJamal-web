@@ -6,7 +6,7 @@
 Proficient in building web applications using Python's Django and have a working experience with Databases like SQL and MongoDB. I enjoy working on Web Development Technologies with REStful APIs, and building practical projects like login systems, calculators, and banking systems. continuously expanding my skills and knowledge in Software development. 
 
 <br>
-<img align='left' src="content://media/external/downloads/1000069121" width="230" height="190">
+<img align='left' src="https://unsplash.com/photos/man-in-gray-dress-shirt-sitting-on-chair-in-front-of-computer-monitor-B6JINerWMz0?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash" width="230" height="190">
 
   - 🌱 I’m currently a final year student at Karpagam Academy of Higher Education and focusing on <b>**Python Web Developments Frameworks**</b> .
   - 💬 I’m looking forward to contribute to <b>**Real World Projects**.</b>
