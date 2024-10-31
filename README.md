@@ -7,8 +7,9 @@
 
 <br>
 <img align='left' src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" height="180">
-
-  - 🌱 I’m currently a final year student at Karpagam Academy of Higher Education and focusing on <b>**Python Web Developments Frameworks**</b> .<br>
+  <br>
+  - 🌱 I’m currently a final year student at Karpagam Academy of Higher Education and focusing on <b>**Python Web Developments Frameworks**</b> .
+  <br>
   - 💬 I’m looking forward to contribute to <b>**Real World Projects**.</b>
 
 <br>
