@@ -1,6 +1,6 @@
 <h2>Hey there, I'm <a style="color: blue !important" href="https://github.com/ZahidJamal-web/">Zahid Jamal K</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h2>
 
-[![linkedin badge](https://img.shields.io/badge/zahidjamal?style=flat&logo=linkedin)](https://www.linkedin.com/in/zahid-jamal)
+[![linkedin badge](https://img.shields.io/badge/zahid-jamal?style=flat&logo=linkedin)](https://www.linkedin.com/in/zahid-jamal)
 [![Gmail Badge](https://img.shields.io/badge/zahdjamal4027@gmail.com-1d8c19?style=flat&logo=Gmail&logoColor=red)](mailto:zahdjamal4027@gmail.com)
 
 Proficient in building web applications using Python's Django and have a working experience with Databases like SQL and MongoDB. I enjoy working on Web Development Technologies with REStful APIs, and building practical projects like login systems, calculators, and banking systems. continuously expanding my skills and knowledge in Software development. 
