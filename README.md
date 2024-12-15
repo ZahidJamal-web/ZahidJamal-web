@@ -9,9 +9,10 @@
 <br>
 <img align='left' src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" height="180">
   <br>
-  <div style="padding-right: 20px;">- 🌱 I’m currently a final year student at Karpagam Academy of Higher Education and focusing on <b>**Python Web Developments Frameworks**</b> .<br>
+  <div style="padding: 20px;">- 🌱 I’m currently a final year student at Karpagam Academy of Higher Education and focusing on <b>**Python Web Developments Frameworks**</b> .<br>
   - 💬 I’m looking forward to contribute to <b>**Real World Projects**.</b></div>
   <br>
+  <br><br>
   <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +22,6 @@
 <a href="https://www.youtube.com/@Zahidjamal4027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ZahidJamal" height="30" width="40" /></a>
 </p>
 
-<br><br>
 <br><br>
 <br><br>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=ZahidJamal-web&theme=dark&hide_border=false" width = 500>
