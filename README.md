@@ -22,10 +22,10 @@
 </p>
 <br><br>
 <br><br>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=ZahidJamal-web&theme=dark&hide_border=false" width = 500>
+<img src = "https://github-readme-streak-stats.herokuapp.com?username=ZahidJamal-web&theme=dark&hide_border=false" width = 500>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=dark" width = 500>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahidJamal-web&theme=dark)](https://github.com/ZahidJamal-web/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="008000")](https://github.com/ZahidJamal-web)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color"green")](https://github.com/ZahidJamal-web)
