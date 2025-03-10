@@ -21,9 +21,7 @@
 <a href="https://www.youtube.com/@Zahidjamal4027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ZahidJamal" height="30" width="40" /></a>
 </p>
 <br><br>
-<br><br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZahidJamal-web&theme=dark&hide_border=false)
-
+<br>
 <img src = "https://github-readme-stats.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=dark" width = 500>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahidJamal-web&theme=dark)](https://github.com/ZahidJamal-web/github-readme-stats)
