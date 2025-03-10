@@ -22,7 +22,7 @@
 </p>
 <br><br>
 <br><br>
-<img src = "https://github-readme-streak-stats.herokuapp.com?username=ZahidJamal-web&theme=dark&hide_border=false" width = 500>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZahidJamal-web&theme=dark&hide_border=false)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=dark" width = 500>
 
