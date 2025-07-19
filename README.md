@@ -54,4 +54,8 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <hr>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thanks+for+Visiting+my+GitHub!;Feel+free+to+explore+and+star+🌟&center=true&color=050f2c&vCenter=true&size=24)](https://github.com/ZahidJamal-web)
+<p align="center">
+  <a href="https://github.com/ZahidJamal-web">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting+my+GitHub!;Feel+free+to+Explore+and+Star+🌟&center=true&vCenter=true&color=050f2c&size=24">
+  </a>
+</p>
