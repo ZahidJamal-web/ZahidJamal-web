@@ -4,14 +4,13 @@
 <br>
 
 <br>
-  [<img align="right" style="margin: 20px 20px 20px 20px" alt="GIF" src="giffy.gif" width="400" height="280">](./giffy.gif)
+  <img align="right" style="margin: 20px 20px 20px 20px" alt="GIF" src="giffy.gif" width="400" height="280">
   <br>
    👋 Aspiriing Cloud Engineer and Python web developer with a love for code, clean architecture, and creative problem-solving. My journey started in college where I focused on programming, building a solid understanding of <b>Python and Software Development Fundamentals.</b> and quickly grew into a deeper passion for <b>Web Development.</b><br><br>
 
 🛠️ I’m passionate about turning ideas into real-world solutions — always eager to learn, build, and refine my skills through hands-on experience.<br><br>
 
 🌱 I believe growth comes from real challenges — that’s why I’m actively seeking opportunities to collaborate on open source and contribute to real-world projects that make a difference.<br><br></div>
-  <br><br>
   <br><br>
 <h2 align="center">📫 Connect with me:</h2>
 <p align="center">
