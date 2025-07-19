@@ -56,6 +56,6 @@
 <hr>
 <p align="center">
   <a href="https://github.com/ZahidJamal-web">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting+my+GitHub!;Feel+free+to+Explore+&+Star+🌟&center=true&vCenter=true&color=2ECC71&size=24">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting+my+GitHub!;Feel+free+to+Explore;Don't+forget+to+give+Star+🌟&center=true&vCenter=true&color=2ECC71&size=24">
   </a>
 </p>
