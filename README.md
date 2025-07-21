@@ -21,8 +21,7 @@
 <br><br>
 <img src = "https://github-readme-stats.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=dark" width = 500>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahidJamal-web&theme=dark)](https://github.com/ZahidJamal-web/github-readme-stats)
-<br><br>
+
 <h3 align="center">Technologies that I have worked with</h3>
 <hr>
 
