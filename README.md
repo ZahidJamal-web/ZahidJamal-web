@@ -10,12 +10,11 @@
 <br>
 
 
----
-
 ## 🚀 About Me
-
-<p align="right">
+<div>
+  <p align="right">
   <img src="giffy.gif" width="350" height="250">
+</p>
 
 👨‍💻 Aspiring <strong>Full Stack Developer</strong> & <strong>Software Developer</strong><br>
 💡 Passionate about building scalable, modern web applications<br>
@@ -24,7 +23,8 @@
 I started my journey with <strong>Python & core programming</strong>, and gradually developed a strong interest in <strong>Web Development and Software Engineering</strong>.<br><br>
 
 ✨ I enjoy turning ideas into real-world products and continuously improving my skills through hands-on projects and practical development experience.
-</p>
+</div>
+
 ---
 
 ## 🌐 Connect with Me
