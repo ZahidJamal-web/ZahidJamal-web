@@ -57,35 +57,25 @@ I started my journey with <strong>Python & core programming</strong>, and gradua
 
 ## 📊 GitHub Stats
 
-<table align="center">
-<tr border="none">
-
-<td width="50%" align="center">
+<p align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=tokyonight&hide_border=true" 
-  width="100%" 
+src="https://github-readme-stats.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+height="180em" 
 />
-
-</td>
-
-<td width="50%" align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahidJamal-web&layout=compact&theme=tokyonight&hide_border=true" 
-  width="100%" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahidJamal-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+height="180em" 
 />
 
-</td>
-
-</tr>
-</table>
+</p>
 
 <p align="center">
 
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ZahidJamal-web&theme=tokyonight&hide_border=true" 
-  width="70%" 
+src="https://github-readme-streak-stats.herokuapp.com?user=ZahidJamal-web&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+height="180em" 
 />
 
 </p>
