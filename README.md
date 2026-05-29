@@ -16,7 +16,6 @@
 
 <p align="right">
   <img src="giffy.gif" width="350" height="250">
-</p>
 
 👨‍💻 Aspiring <strong>Full Stack Developer</strong> & <strong>Software Developer</strong><br>
 💡 Passionate about building scalable, modern web applications<br>
@@ -25,7 +24,7 @@
 I started my journey with <strong>Python & core programming</strong>, and gradually developed a strong interest in <strong>Web Development and Software Engineering</strong>.<br><br>
 
 ✨ I enjoy turning ideas into real-world products and continuously improving my skills through hands-on projects and practical development experience.
-
+</p>
 ---
 
 ## 🌐 Connect with Me
@@ -35,19 +34,19 @@ I started my journey with <strong>Python & core programming</strong>, and gradua
 <a href="https://github.com/ZahidJamal-web" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
-
+&emsp;
 <a href="https://linkedin.com/in/zahid-jamal" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-
+&emsp;
 <a href="https://instagram.com/zahi.djamal786" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-
+&emsp;
 <a href="https://www.youtube.com/@Zahidjamal4027" target="_blank">
   <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40"/>
 </a>
-
+&emsp;
 <a href="https://www.facebook.com/profile.php?id=100083401672251" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40"/>
 </a>
