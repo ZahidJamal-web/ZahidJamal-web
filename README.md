@@ -9,31 +9,49 @@
 
 <br>
 
-<p align="center">
-  <img src="giffy.gif" width="350" height="250">
-</p>
 
 ---
 
 ## 🚀 About Me
 
-👨‍💻 Aspiring **Cloud Engineer** & **Full Stack Developer**  
-💡 Passionate about building scalable, real-world applications  
-🌱 Currently exploring **Cloud, DevOps & Advanced Flutter Development**  
+<p align="right">
+  <img src="giffy.gif" width="350" height="250">
+</p>
 
-I started my journey with **Python & core programming**, and gradually developed a strong interest in **Web Development and Mobile Apps**.
+👨‍💻 Aspiring <strong>Full Stack Developer</strong> & <strong>Software Developer</strong><br>
+💡 Passionate about building scalable, modern web applications<br>
+🌱 Currently exploring <strong>Advanced Web Development, MERN Stack & Modern Technologies</strong><br><br>
 
-✨ I enjoy turning ideas into products and continuously improving my skills through real-world projects.
+I started my journey with <strong>Python & core programming</strong>, and gradually developed a strong interest in <strong>Web Development and Software Engineering</strong>.<br><br>
+
+✨ I enjoy turning ideas into real-world products and continuously improving my skills through hands-on projects and practical development experience.
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/zahid-jamal"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://instagram.com/zahi.djamal786"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="https://www.youtube.com/@Zahidjamal4027"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
-<a href="https://www.facebook.com/profile.php?id=100083401672251"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+
+<a href="https://github.com/ZahidJamal-web" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/zahid-jamal" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://instagram.com/zahi.djamal786" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="https://www.youtube.com/@Zahidjamal4027" target="_blank">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100083401672251" target="_blank">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40"/>
+</a>
+
 </p>
 
 ---
@@ -41,35 +59,59 @@ I started my journey with **Python & core programming**, and gradually developed
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahidJamal-web&layout=compact&theme=tokyonight" width="48%" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahidJamal-web&layout=compact&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
+
+</p>
+
+<p align="center">
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ZahidJamal-web&theme=tokyonight&hide_border=true" 
+    width="70%" 
+  />
+
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
+# 💻 Tech Stacks
 
-### 💻 Programming & Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,dart,flutter" />
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Frameworks & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=django,bootstrap,docker,git,github" />
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,python,c" />
 </p>
 
-### ☁️ Cloud & Database
-<p align="center">
-<img src="https://skillicons.dev/icons?i=azure,mongodb,postgres,linux" />
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
+
+### 🛠️ Tools & Cloud Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,azure,docker,linux" />
+</p>
+
 
 ---
 
 ## 🎯 Goals
 
 ✔ Build scalable full-stack applications  
-✔ Master **Cloud & DevOps**  
+✔ Master **Cloud & AI**  
 ✔ Contribute to **Open Source Projects**  
 ✔ Become a **Professional Software Engineer**
 
