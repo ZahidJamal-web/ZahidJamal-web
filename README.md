@@ -74,9 +74,10 @@ height="180em"
 <p align="center">
 
 <img 
-src="https://github-readme-streak-stats.herokuapp.com?user=ZahidJamal-web&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+src="https://demolab.com" 
 height="180em" 
 />
+
 
 </p>
 
