@@ -71,16 +71,6 @@ height="180em"
 
 </p>
 
-<p align="center">
-
-<img 
-src="https://demolab.com" 
-height="180em" 
-/>
-
-
-</p>
-
 ---
 
 # 💻 Tech Stacks
@@ -102,7 +92,7 @@ height="180em"
 
 ### 🛠️ Tools & Cloud Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,azure,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idle, aws,azure,docker,linux" />
 </p>
 
 
