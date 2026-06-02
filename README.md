@@ -92,7 +92,7 @@ height="180em"
 
 ### 🛠️ Tools & Cloud Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idle, aws,azure,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,azure,docker,linux" />
 </p>
 
 
