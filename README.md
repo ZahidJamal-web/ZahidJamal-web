@@ -61,17 +61,12 @@ I started my journey with <strong>Python & core programming</strong>, and gradua
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=ZahidJamal-web&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    width="400"
-  />
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZahidJamal-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    width="350"
-  />
+  <a href="#">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="400" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZahidJamal-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="350" />
+  </a>
 </p>
 
 ---
