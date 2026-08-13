@@ -65,7 +65,7 @@ I started my journey with <strong>Python & core programming</strong>, and gradua
     src="https://github-readme-stats-fast.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
     height="180em"
   />
-  <div width="40"></div>
+  <div width="20"></div>
   
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZahidJamal-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
