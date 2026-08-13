@@ -72,6 +72,7 @@ height="180em"
 />
 
 ---
+<br>
 
 # 💻 Tech Stacks
 
