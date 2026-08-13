@@ -60,17 +60,19 @@ I started my journey with <strong>Python & core programming</strong>, and gradua
 <br>
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=ZahidJamal-web&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em"/>
-    </td>
-    <td width="30" style="border: none;"></td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZahidJamal-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="180em"
+  />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZahidJamal-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="180em"
+  />
+</div>
 
 ---
 <br>
