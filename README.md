@@ -64,7 +64,7 @@ I started my journey with <strong>Python & core programming</strong>, and gradua
   <img 
     src="https://github-readme-stats-fast.vercel.app/api?username=ZahidJamal-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
     height="180em"
-    style="margin-right: 20px;"
+    style="margin-right: 10px;"
   />
   
   <img 
