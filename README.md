@@ -57,6 +57,9 @@ I started my journey with <strong>Python & core programming</strong>, and gradua
 
 ## 📊 GitHub Stats
 
+<br>
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=tariqjamal057&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
 <p align="center">
 
 <img 
