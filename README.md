@@ -66,7 +66,7 @@ I started my journey with <strong>Python & core programming</strong>, and gradua
     height="180em"
   />
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <img 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZahidJamal-web&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
