@@ -13,7 +13,7 @@
 ## 🚀 About Me
 <div>
   <p align="center">
-  <img src="giffy.gif" width="350" height="250">
+  <img src="giffy.gif" width="380" height="300">
 </p>
 
 👨‍💻 Aspiring <strong>Full Stack Developer</strong> & <strong>Software Developer</strong><br>
