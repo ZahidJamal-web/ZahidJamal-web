@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 <div>
-  <p align="right">
+  <p align="center">
   <img src="giffy.gif" width="350" height="250">
 </p>
 
